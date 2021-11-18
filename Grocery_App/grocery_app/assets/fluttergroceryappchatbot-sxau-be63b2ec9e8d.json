@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "fluttergroceryappchatbot-sxau",
+  "private_key_id": "be63b2ec9e8dfe3ad49596ca08f490256578069e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDOmrhmCJYMS6UN\n0Dx9h2RMKffQBZv45rPrkk73DZXU0HXTOXB3t/+rwTPCedvle1VzS00jG6sIM+9P\nhVJPuzX34wUckCqRfz29M8gqdQEqRtUO4xjmNox8082PmSUVJRMlRjEhJQq7gRLF\nTKa1W6Qc8sOuGddfeu8K/gzOb/z/0VxFvkf4ELc2yiEtRRYhIGA0NX4hudlj70wD\n/DVDggFcA0UVdx2TI4Tjn3HiNtreMzFChW2gDy89C+6Eqtucz4rXdW/XdmDbPehI\nWVF8j+Dg0+U5AAoRsP/8eM1BkBKxEpSCZP650WzXYPErhR7e49sBInE11Tk1qwe0\nxQhNs+CBAgMBAAECggEAAZv0iKNH7+jC7HDkgHNAsqVaIK+pC0BwCK4kPDiPr495\n63ZvhhfrEOFQz/tri658siumnShj66Qpu6Zfu9fK/nRIfOi9GTthe3Owb4ZnagKc\nf9rpg43i2bIM/tSEFJtx9HUvxml+/lvKvHRO1wL2iRcvsyyh/RXw25xsl3mVGSlX\ns1rVVvLsM6obpebonj/TnQtIHQ7WVpEaUkXST8FPMouBZDWvRLVdtgQWdWdAJDF4\ndcgovN//5V05FVqBdoqqBnWmLtl94HZ28yEUakQ3oqK8EYdtnIzreUh77nHc5953\nvLApRo27W5wZ3aVk/YeXlErish4b+AGSUgmXVKIC9QKBgQD51wNbFtWEYaFrWh1w\nI08konKR3/I9oMK+CtBPFaplMLzwiXYF1SYWSwORBxzlPmKLwNHHCo0iMCiph0vv\n6hIU2jLpXXBYAlHOxIVxkxf59+KA0BOz9oS88li9WddzYEy+bQk4J8mjSoOwkddZ\nDLhCEAyJecINCBjjjs8beHRsdwKBgQDTss4XKWirZywQaVRuvuev8Jmg57bcHkYk\na+agCu0nQKtwo0OCOwzcGWqg9oLpuui17hU7Gy3drhZtahYQsf4N4swejMnOySiT\ncyBJpiF2gf4fwKq/+1tNA31rIAoaI3MCr4LSHIkhjd14QiXodqX1L9xfr6KEP/Jz\nT1tpO5zwxwKBgQDKZK94RDg2ZOziTX9Zj5EWqW7M07Gm0SvRzmrQFkoSbXgyF/l/\nYhvXpW8/Npbm8zHb6xlF+Ds6/e6C33LZ6TI6qETkHejbsw1YxoUf67xZqMFZ/rZn\nbIY9lsniovxRoCqrfSMh1cGYQc4K5SqiHhbKlbvCRtu3uN6IwfDvXRZbowKBgACe\nxXvL40KdSsPBiz3H0WXyjoCqLR7397yjlEljvs4eomHyGICJK8B5UpamIjwNECF4\nURebPMcpe2dWqDnkS5o+z9pHD1BLxpKoA7AzjGWMe/Ib3mQxmFLhb7ygm2b4M54O\nZZO4Aa7Xe46eov3LWzEcssiU+yToCw3LbbkhM5SBAoGAV2cJ74GRkJRzbOAIqovo\nZLA2NtRcmJrm45yLO8DHU4Psgw5iMFJaxk7IcecsTiHf2odJiWQGfXDQLmw2lHfk\ntMBcu68a1RN7tS6qi+tJKWRD+85CVdD2/n/Ug9rcbLn8n2fuU52ChEVUnkrzP9pq\n9vHs91LHdJkiR4GXWE3bE44=\n-----END PRIVATE KEY-----\n",
+  "client_email": "grocery-app@fluttergroceryappchatbot-sxau.iam.gserviceaccount.com",
+  "client_id": "104568504170810765620",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/grocery-app%40fluttergroceryappchatbot-sxau.iam.gserviceaccount.com"
+}

@@ -1,0 +1,34 @@
+name: grocery_app_admin
+description: A new Flutter project.
+
+publish_to: 'none' 
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+    
+  cupertino_icons: ^1.0.2
+  firebase_core: ^0.7.0
+  cloud_firestore: ^0.16.0
+  firebase_auth: ^0.20.1
+  flutter_admin_scaffold: ^0.0.5
+  firebase: ^8.0.0
+  firebase_storage: ^7.0.0
+  chips_choice: ^2.0.1
+  flutter_switch: ^0.2.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - images/
+
